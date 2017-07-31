@@ -1,0 +1,129 @@
+# depslib dependency file v1.0
+1336487165 source:/home/almu/practica2/TADCola.cpp
+	"TADCola.h"
+
+1336487224 /home/almu/practica2/TADCola.h
+	<string>
+	<iostream>
+
+1336488280 source:/home/almu/practica2/TADLista.cpp
+	"TADLista.h"
+	<iostream>
+	<string.h>
+	<stdio.h>
+
+1336489164 /home/almu/practica2/TADLista.h
+	<iostream>
+	"TADCola.h"
+
+1338918136 source:/home/almu/practica2/main.cpp
+	<iostream>
+	"Diccionario.h"
+	<string.h>
+	<stdio.h>
+
+1338918795 source:/home/almu/practica2/Diccionario.cpp
+	"Diccionario.h"
+
+1338988804 /home/almu/practica2/Diccionario.h
+	<iostream>
+	"TADLista.h"
+	<string.h>
+	<stdio.h>
+
+1336487165 source:/home/gorebrau/Descargas/practica2/TADCola.cpp
+	"TADCola.h"
+
+1336487224 /home/gorebrau/Descargas/practica2/TADCola.h
+	<string>
+	<iostream>
+
+1336488280 source:/home/gorebrau/Descargas/practica2/TADLista.cpp
+	"TADLista.h"
+	<iostream>
+	<string.h>
+	<stdio.h>
+
+1336489164 /home/gorebrau/Descargas/practica2/TADLista.h
+	<iostream>
+	"TADCola.h"
+
+1339016604 source:/home/gorebrau/Descargas/practica2/main.cpp
+	<iostream>
+	"Diccionario.h"
+	<string.h>
+	<stdio.h>
+
+1338997477 /home/gorebrau/Descargas/practica2/Diccionario.h
+	<iostream>
+	"TADLista.h"
+	<string.h>
+	<stdio.h>
+
+1339017814 source:/home/gorebrau/Descargas/practica2/Diccionario.cpp
+	"Diccionario.h"
+
+1336487164 source:/home/almu/practica2A/TADCola.cpp
+	"TADCola.h"
+
+1336487224 /home/almu/practica2A/TADCola.h
+	<string>
+	<iostream>
+
+1336488280 source:/home/almu/practica2A/TADLista.cpp
+	"TADLista.h"
+	<iostream>
+	<string.h>
+	<stdio.h>
+
+1336489164 /home/almu/practica2A/TADLista.h
+	<iostream>
+	"TADCola.h"
+
+1339091489 source:/home/almu/practica2A/main.cpp
+	<iostream>
+	"Diccionario.h"
+	<string.h>
+	<stdio.h>
+
+1338997476 /home/almu/practica2A/Diccionario.h
+	<iostream>
+	"TADLista.h"
+	<string.h>
+	<stdio.h>
+
+1339170199 source:/home/almu/practica2A/Diccionario.cpp
+	"Diccionario.h"
+
+1339170198 source:/media/almu/446C-49C3/apuntes universidad/Estructuras de Datos I/Practicas/practica2A/Diccionario.cpp
+	"Diccionario.h"
+
+1338997476 /media/almu/446C-49C3/apuntes universidad/Estructuras de Datos I/Practicas/practica2A/Diccionario.h
+	<iostream>
+	"TADLista.h"
+	<string.h>
+	<stdio.h>
+
+1336489164 /media/almu/446C-49C3/apuntes universidad/Estructuras de Datos I/Practicas/practica2A/TADLista.h
+	<iostream>
+	"TADCola.h"
+
+1336487224 /media/almu/446C-49C3/apuntes universidad/Estructuras de Datos I/Practicas/practica2A/TADCola.h
+	<string>
+	<iostream>
+
+1339091488 source:/media/almu/446C-49C3/apuntes universidad/Estructuras de Datos I/Practicas/practica2A/main.cpp
+	<iostream>
+	"Diccionario.h"
+	<string.h>
+	<stdio.h>
+
+1336487164 source:/media/almu/446C-49C3/apuntes universidad/Estructuras de Datos I/Practicas/practica2A/TADCola.cpp
+	"TADCola.h"
+
+1336488280 source:/media/almu/446C-49C3/apuntes universidad/Estructuras de Datos I/Practicas/practica2A/TADLista.cpp
+	"TADLista.h"
+	<iostream>
+	<string.h>
+	<stdio.h>
+

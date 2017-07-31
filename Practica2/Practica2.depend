@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1371306450 source:/home/almu/Escritorio/Universidad/Estructuras de Datos I/Practicas/Practica2/Letrix.cpp
+	<stdio.h>
+	<iostream>
+	"Letrix.h"
+	<windows.h>
+	<unistd.h>
+
+1370849439 /home/almu/Escritorio/Universidad/Estructuras de Datos I/Practicas/Practica2/Letrix.h
+
+1371242859 source:/home/almu/Escritorio/Universidad/Estructuras de Datos I/Practicas/Practica2/Pract2.cpp
+	<iostream>
+	"Letrix.h"
+	<cstdlib>
+

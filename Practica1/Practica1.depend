@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1366135483 source:/home/almu/Escritorio/Universidad/Estructuras de Datos I/Practicas/Practica1/Clinica.cpp
+	"Clinica.h"
+	"TADCola.h"
+
+1366112874 /home/almu/Escritorio/Universidad/Estructuras de Datos I/Practicas/Practica1/Clinica.h
+	<iostream>
+	<cstring>
+	<cstdio>
+	<cstdlib>
+
+1366108041 /home/almu/Escritorio/Universidad/Estructuras de Datos I/Practicas/Practica1/TADCola.h
+	<string>
+	<iostream>
+
+1366108041 source:/home/almu/Escritorio/Universidad/Estructuras de Datos I/Practicas/Practica1/TADCola.cpp
+	"TADCola.h"
+
+1366133573 source:/home/almu/Escritorio/Universidad/Estructuras de Datos I/Practicas/Practica1/P1.cpp
+	"Clinica.h"
+	<iostream>
+	<cstring>
+
